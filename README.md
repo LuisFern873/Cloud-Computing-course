@@ -1,1 +1,1 @@
-# SmartAlbum
+# Smart Album (Cloud Computing)
