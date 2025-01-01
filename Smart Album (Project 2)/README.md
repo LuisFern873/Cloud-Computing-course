@@ -3,9 +3,10 @@
 ## Caso de uso
 *Smart Album*  es  una  aplicación  serverless  Multi-tenancy con Arquitectura basada en eventos capaz de  automáticamente  organizar  fotografías  en  basea  objetos,  escenas  y  personas.  Este  utiliza  Amazon Rekognition  para  etiquetar  y  categorizar  las imágenes  subidas  en  un  bucket  de  Amazon  S3  y guardar  la  metadata  en  Amazon DynamoDB  cuando  el usuario lo requiera.
 
-<img src="images/mental-health.png" alt="drawing" width="200"/>
-
-<img src="images/book.png" alt="drawing" width="200"/>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="images/mental-health.png" style="width: 150px; height: auto;">
+  <img src="images/book.png" style="width: 150px; height: auto;">
+</div>
 
 ## Servicios utilizados
 
@@ -16,18 +17,6 @@
 - **AI:** Rekognition
 - **Security:** KMS
 
-## Diagrama de solución "Smart Album" serverless app
+## Diagrama de solución
 
-<img src="images/solution.png" alt="drawing"/>
-
-## Amazon S3 Bucket
-
-## Tablas DynamoDB
-
-## Amazon API Gateway
-
-## Lambdas
-
-## SNS
-
-## SQS
+<img src="images/solution.png" alt="drawing" style="display: block; margin: auto;"/>
