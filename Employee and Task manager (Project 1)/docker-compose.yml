@@ -1,0 +1,27 @@
+version: "3.3"
+
+services:
+  api-administradores:
+    build: ./backend/api_administradores
+    image: luisfmendezl/api-administradores
+    ports:
+      - 5001:5001
+  api-empleados:
+    build: ./backend/api_empleados
+    image: luisfmendezl/api-empleados
+    ports:
+      - 5002:5002
+  api-tareas:
+    build: ./backend/api_tareas
+    image: luisfmendezl/api-tareas
+    ports:
+      - 5003:5003
+  frontend:
+    build: ./frontend
+    image: luisfmendezl/frontend
+    ports:
+      - 8080:8080
+
+
+
+
