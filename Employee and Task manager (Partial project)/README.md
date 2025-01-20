@@ -9,7 +9,7 @@ marco, nace este proyecto que pretende solucionar
 estos problemas en aquellas organizaciones que
 buscan máxima eficiencia. Entre estas se encuentra
 la cadena de tiendas Tambo+, siendo nuestro
-proyecto a quien va dirigido
+proyecto a quien va dirigido.
 
 <p align="center">
   <img src="images/logo.png" style="width: 250px; height: auto;">
