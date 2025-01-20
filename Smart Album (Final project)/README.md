@@ -1,7 +1,7 @@
 # *Smart Album*
 
 ## Caso de uso
-*Smart Album*  es  una  aplicación  serverless  Multi-tenancy con Arquitectura basada en eventos capaz de  automáticamente  organizar  fotografías  en  basea  objetos,  escenas  y  personas.  Este  utiliza  Amazon Rekognition  para  etiquetar  y  categorizar  las imágenes  subidas  en  un  bucket  de  Amazon  S3  y guardar  la  metadata  en  Amazon DynamoDB  cuando  el usuario lo requiera.
+*Smart Album* es una aplicación serverless de arquitectura Multi-Tenancy basada en eventos, diseñada para organizar automáticamente fotografías según objetos, escenas y personas. Utiliza Amazon Rekognition para etiquetar y categorizar las imágenes cargadas en un bucket de Amazon S3, almacenando la metadata en Amazon DynamoDB de forma dinámica, según las necesidades del usuario.
 
 
 <p align="center">
