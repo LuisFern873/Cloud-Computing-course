@@ -1,3 +1,3 @@
-# Cloud Computing
+# Cloud Computing course
 
-**Profesor:** Geraldo Colchado Ruiz (Head of Solution Architecture - Rimac Seguros y Reaseguros)
+**Professor:** Geraldo Colchado Ruiz (Head of Solution Architecture - Rimac Seguros y Reaseguros)
